@@ -3,4 +3,4 @@
 git add .
 3) git commit -m <zametka>
 4) git push <xraniliwe><vetka>
-git push origin main
+git push origin main(master)
